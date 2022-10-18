@@ -5,5 +5,5 @@ to learn it.
 
 ## License
 
-Copyright (c) 2020-2021 Ben O'Neill <ben@benoneill.xyz>. Licensed under the
+Copyright (c) 2020-2021 Ben O'Neill <ben@oneill.sh>. Licensed under the
 MIT/X License. See LICENSE.
